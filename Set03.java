@@ -1,7 +1,6 @@
 import java.io.*;
 import java.util.Random;
 import java.util.Scanner;
-import java.util.InputMismatchException;
 
 
 public class Set03 {
